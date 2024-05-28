@@ -97,10 +97,6 @@ The initial model achieved an accuracy of approximately 11.35% on the test set, 
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - The [MNIST dataset](http://yann.lecun.com/exdb/mnist/) for providing the handwritten digit images.
@@ -108,4 +104,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to modify this `README.md` file to suit your project's specific details and requirements.
