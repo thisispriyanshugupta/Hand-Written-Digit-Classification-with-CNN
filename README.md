@@ -19,7 +19,7 @@ The MNIST dataset consists of 60,000 training images and 10,000 test images of h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mnist-cnn.git
+   git clone https://github.com/thisispriyanshugupta/mnist-cnn.git
    cd mnist-cnn
    ```
 
