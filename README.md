@@ -19,8 +19,8 @@ The MNIST dataset consists of 60,000 training images and 10,000 test images of h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/thisispriyanshugupta/mnist-cnn.git
-   cd mnist-cnn
+   git clone https://github.com/thisispriyanshugupta/Hand-Written-Digit-Classification-with-CNN.git
+   cd Hand-Written-Digit-Classification-with-CNN
    ```
 
 2. Install the required packages:
